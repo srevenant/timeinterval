@@ -6,4 +6,3 @@ Usage:
 
     # later:
     stopper.stop()
-
