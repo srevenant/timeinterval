@@ -3,7 +3,7 @@ setup(
   name = 'timeinterval',
   packages = ['timeinterval'],
   version = '1.0',
-  description = 'function call on an interval (similar to setInterval in javascript)'
+  description = 'function call on an interval (similar to setInterval in javascript)',
   author = 'Brandon Gillespie',
   author_email = 'bjg-pypi@solv.com',
   url = 'https://github.com/srevenant/timeinterval', 
